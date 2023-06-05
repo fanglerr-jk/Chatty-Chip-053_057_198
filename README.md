@@ -1,4 +1,4 @@
-# Chatty Chip
+# Chatty Chips - Integrated ChatGPT
 
 Mobile chat appication
 
