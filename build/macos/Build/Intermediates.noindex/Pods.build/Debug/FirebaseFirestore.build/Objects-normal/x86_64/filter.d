@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/fanglerr/Desktop/chattychipsapp/macos/Pods/FirebaseFirestore/Firestore/core/src/core/filter.cc \
+  /Users/fanglerr/Desktop/chattychipsapp/macos/Pods/FirebaseFirestore/Firestore/core/src/core/filter.h \
+  /Users/fanglerr/Desktop/chattychipsapp/macos/Pods/FirebaseFirestore/Firestore/core/src/model/model_fwd.h \
+  /Users/fanglerr/Desktop/chattychipsapp/macos/Pods/FirebaseFirestore/Firestore/Protos/nanopb/google/firestore/v1/document.nanopb.h \
+  /Users/fanglerr/Desktop/chattychipsapp/macos/Pods/nanopb/pb.h \
+  /Users/fanglerr/Desktop/chattychipsapp/macos/Pods/FirebaseFirestore/Firestore/Protos/nanopb/google/protobuf/struct.nanopb.h \
+  /Users/fanglerr/Desktop/chattychipsapp/macos/Pods/FirebaseFirestore/Firestore/Protos/nanopb/google/protobuf/timestamp.nanopb.h \
+  /Users/fanglerr/Desktop/chattychipsapp/macos/Pods/FirebaseFirestore/Firestore/Protos/nanopb/google/type/latlng.nanopb.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/types/optional.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/config.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/options.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/policy_checks.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/utility/utility.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/inline_variable.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/identity.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/invoke.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/meta/type_traits.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/attributes.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/types/bad_optional_access.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/types/internal/optional.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/memory/memory.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/macros.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/optimization.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/port.h

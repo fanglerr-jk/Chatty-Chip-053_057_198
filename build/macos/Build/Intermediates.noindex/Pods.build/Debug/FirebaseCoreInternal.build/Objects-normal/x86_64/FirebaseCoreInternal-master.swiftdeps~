@@ -1,0 +1,27 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "d08a3eee19963e4723eb9851b20573a8f2b71cdff281c61eec790ffa195a99ac"
+build_start_time: [1685985598, 884588956]
+build_end_time: [1685985598, 969943046]
+inputs:
+  ? "/Users/fanglerr/Desktop/chattychipsapp/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift"
+  : !private [1685985522, 583669900]
+  ? "/Users/fanglerr/Desktop/chattychipsapp/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift"
+  : !private [1685985522, 585297584]
+  ? "/Users/fanglerr/Desktop/chattychipsapp/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift"
+  : !private [1685985522, 586315631]
+  ? "/Users/fanglerr/Desktop/chattychipsapp/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift"
+  : !private [1685985522, 586909294]
+  ? "/Users/fanglerr/Desktop/chattychipsapp/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift"
+  : !private [1685985522, 587963819]
+  ? "/Users/fanglerr/Desktop/chattychipsapp/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift"
+  : !private [1685985522, 584218025]
+  ? "/Users/fanglerr/Desktop/chattychipsapp/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift"
+  : !private [1685985522, 583037376]
+  ? "/Users/fanglerr/Desktop/chattychipsapp/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift"
+  : !private [1685985522, 588540315]
+  ? "/Users/fanglerr/Desktop/chattychipsapp/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift"
+  : !private [1685985522, 587435245]
+  ? "/Users/fanglerr/Desktop/chattychipsapp/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : !private [1685985522, 584858179]
+  ? "/Users/fanglerr/Desktop/chattychipsapp/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : !private [1685985522, 585829734]

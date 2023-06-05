@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "c4bfcbc27adea54e326879f19765a3507b4f4b3d923a252d515930b94ab5556a"
+build_start_time: [1685985900, 170564174]
+build_end_time: [1685985919, 946280002]
+inputs:
+  "/Users/fanglerr/Desktop/chattychipsapp/macos/Flutter/GeneratedPluginRegistrant.swift": [1685985802, 382052898]
+  "/Users/fanglerr/Desktop/chattychipsapp/macos/Runner/AppDelegate.swift": [1675231518, 0]
+  "/Users/fanglerr/Desktop/chattychipsapp/macos/Runner/MainFlutterWindow.swift": [1675231518, 0]

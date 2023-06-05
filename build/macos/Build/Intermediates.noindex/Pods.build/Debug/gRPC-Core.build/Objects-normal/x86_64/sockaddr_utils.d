@@ -1,0 +1,45 @@
+dependencies: \
+  /Users/fanglerr/Desktop/chattychipsapp/macos/Pods/gRPC-Core/src/core/lib/address_utils/sockaddr_utils.cc \
+  /Users/fanglerr/Desktop/chattychipsapp/macos/Pods/Target\ Support\ Files/gRPC-Core/gRPC-Core-prefix.pch \
+  /Users/fanglerr/Desktop/chattychipsapp/macos/Pods/gRPC-Core/include/grpc/support/port_platform.h \
+  /Users/fanglerr/Desktop/chattychipsapp/macos/Pods/gRPC-Core/include/grpc/impl/codegen/port_platform.h \
+  /Users/fanglerr/Desktop/chattychipsapp/macos/Pods/gRPC-Core/src/core/lib/address_utils/sockaddr_utils.h \
+  /Users/fanglerr/Desktop/chattychipsapp/macos/Pods/gRPC-Core/src/core/lib/iomgr/resolved_address.h \
+  /Users/fanglerr/Desktop/chattychipsapp/macos/Pods/gRPC-Core/src/core/lib/iomgr/port.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/strings/str_cat.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/port.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/attributes.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/config.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/options.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/policy_checks.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/optimization.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/strings/numbers.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/macros.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/numeric/bits.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/numeric/internal/bits.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/numeric/int128.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/numeric/int128_have_intrinsic.inc \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/strings/string_view.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/throw_delegate.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/strings/str_format.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/strings/internal/str_format/arg.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/meta/type_traits.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/strings/internal/str_format/extension.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/strings/internal/str_format/output.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/strings/internal/str_format/bind.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/strings/internal/str_format/checker.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/strings/internal/str_format/parser.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/types/span.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/types/internal/span.h \
+  /Users/fanglerr/Desktop/chattychipsapp/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/algorithm/algorithm.h \
+  /Users/fanglerr/Desktop/chattychipsapp/macos/Pods/gRPC-Core/include/grpc/support/alloc.h \
+  /Users/fanglerr/Desktop/chattychipsapp/macos/Pods/gRPC-Core/include/grpc/support/log.h \
+  /Users/fanglerr/Desktop/chattychipsapp/macos/Pods/gRPC-Core/include/grpc/impl/codegen/log.h \
+  /Users/fanglerr/Desktop/chattychipsapp/macos/Pods/gRPC-Core/src/core/lib/gpr/string.h \
+  /Users/fanglerr/Desktop/chattychipsapp/macos/Pods/gRPC-Core/include/grpc/impl/codegen/gpr_types.h \
+  /Users/fanglerr/Desktop/chattychipsapp/macos/Pods/gRPC-Core/src/core/lib/gprpp/host_port.h \
+  /Users/fanglerr/Desktop/chattychipsapp/macos/Pods/gRPC-Core/src/core/lib/iomgr/sockaddr.h \
+  /Users/fanglerr/Desktop/chattychipsapp/macos/Pods/gRPC-Core/src/core/lib/event_engine/sockaddr.h \
+  /Users/fanglerr/Desktop/chattychipsapp/macos/Pods/gRPC-Core/src/core/lib/iomgr/sockaddr_posix.h \
+  /Users/fanglerr/Desktop/chattychipsapp/macos/Pods/gRPC-Core/src/core/lib/iomgr/sockaddr_windows.h \
+  /Users/fanglerr/Desktop/chattychipsapp/macos/Pods/gRPC-Core/src/core/lib/iomgr/socket_utils.h

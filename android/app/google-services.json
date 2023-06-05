@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "402811270138",
+    "project_id": "chattychipsapp-a537b",
+    "storage_bucket": "chattychipsapp-a537b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402811270138:android:a37db7d4529974b9ccea43",
+        "android_client_info": {
+          "package_name": "com.example.chattychipsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN3QnakFVodmgxtibvvgkgerj8TlsXyBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
